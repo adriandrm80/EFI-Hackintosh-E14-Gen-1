@@ -25,7 +25,7 @@ Este repositório contém a pasta **EFI** configurada para rodar macOS em um **L
 
 ## Observações
 
-- Testado em [adicione aqui a versão do macOS].  
+- Testado em Sonoma.  
 - Para melhor compatibilidade, recomenda-se usar o **OpenCore** atualizado.  
 - Faça backup do seu sistema antes de aplicar esta EFI.  
 
